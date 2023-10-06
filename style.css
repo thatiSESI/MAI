@@ -1,0 +1,81 @@
+.text {
+    position: relative;
+
+    left: 500px;
+    top: 220px;
+
+    font-size: 60px;
+
+    color: blanchedalmond;
+
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+
+ 
+
+body{
+
+    background-image: url(img/MicrosoftTeams-image.png);
+    overflow-x: hidden;
+
+}
+
+.text2{
+    position: relative;
+    left: 530px;
+    color: blanchedalmond;
+    top: 225px;
+    font-size: 45px;
+}
+
+.linc {
+    text-decoration: none;
+    border: 2px solid rgb(0, 0, 0); /* Adiciona a borda sólida com 2 pixels de largura e cor vermelha */
+    border-radius: 15px; /* Arredonda as bordas em 2 pixels */
+    color: rgb(0, 0, 0);
+    font-size: 20px;
+    padding: 5px;
+    margin-top: 30px;
+    font: Arial;
+}
+.somos {
+    text-decoration: none;
+    border: 2px solid rgb(0, 0, 0); /* Adiciona a borda sólida com 2 pixels de largura e cor vermelha */
+    border-radius: 15px; /* Arredonda as bordas em 2 pixels */
+    color: rgb(0, 0, 0);
+    font-size: 20px;
+    padding: 5px;
+    margin-top: 30px;
+    font: Arial;
+    margin-left: 100px;
+}
+.projeto {
+    text-decoration: none;
+    border: 2px solid rgb(0, 0, 0); /* Adiciona a borda sólida com 2 pixels de largura e cor vermelha */
+    border-radius: 15px; /* Arredonda as bordas em 2 pixels */
+    color: rgb(0, 0, 0);
+    font-size: 20px;
+    padding: 5px;
+    margin-top: 30px;
+    font: Arial;
+    margin-left: 100px;
+}
+.contact {
+    text-decoration: none;
+    border: 2px solid rgb(0, 0, 0); /* Adiciona a borda sólida com 2 pixels de largura e cor vermelha */
+    border-radius: 15px; /* Arredonda as bordas em 2 pixels */
+    color: rgb(0, 0, 0);
+    font-size: 20px;
+    padding: 5px;
+    margin-top: 30px;
+    font: Arial;
+    margin-left: 100px;
+}
+
+.texte{
+    text-align: center;
+    color: blanchedalmond;
+    font-size: 25px;
+}
